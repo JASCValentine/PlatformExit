@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TWL_destination1">Tsuen Wan</string>
+    <string name="TWL_destination2">Central</string>
+    
+    <string-array name="TSW_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="TSW_2">
+        <item >Platform for entry only</item>
+    </string-array>
+	<string-array name="TWH_1">
+        <item >Car 2 Door 4</item>
+        <item >Car 5 Door 2</item>
+    </string-array>
+    <string-array name="TWH_2">
+        <item >Car 7 Door 2</item>
+        <item >Car 4 Door 4</item>
+    </string-array>
+	<string-array name="KWH_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="KWH_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="KWF_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="KWF_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+   </string-array>
+    <string-array name="LAK_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="LAK_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+   </string-array>
+    <string-array name="MEF_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="MEF_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="LCK_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="LCK_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="CSW_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="CSW_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="SSP_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="SSP_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="PRE_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="PRE_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+   </string-array>
+    <string-array name="MOK_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="MOK_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="YMT_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="YMT_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="JOR_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="JOR_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="TST_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="TST_2">
+        <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+    </string-array>
+    <string-array name="ADM_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="ADM_2">
+         <item >Car 7 Door 4</item>
+        <item >Car 5 Door 1</item>
+        <item >Car 1 Door 4</item>
+   </string-array>
+    <string-array name="CEN_1">
+        <item >Car 2 Door 2</item>
+        <item >Car 4 Door 5</item>
+        <item >Car 8 Door 2</item>
+    </string-array>
+    <string-array name="CEN_2">
+		<item>Same as above</item>
+    </string-array>
+</resources>

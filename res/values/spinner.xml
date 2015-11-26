@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Lines">
+        <item>Select</item>
+        <item>Tsuen Wan Line</item>        
+    </string-array>
+    <string-array name="Lines_values">
+        <item />
+        <item >TWL</item>
+    </string-array>
+    <string-array name="TWL_Stations">
+        <item>Select</item>
+        <item>Tsuen Wan</item>
+        <item>Tai Wo Hau</item>
+        <item>Kwai Hing</item>
+        <item>Kwai Fong</item>
+        <item>Lai King</item>
+        <item>Mei Foo</item>
+        <item>Lai Chi Kok</item>
+        <item>Cheung Sha Wan</item>
+        <item>Sham Shui Po</item>
+        <item>Prince Edward</item>
+        <item>Mon Kok</item>
+        <item>Yau Ma Tei</item>
+        <item>Jordan</item>
+        <item>Tsim Sha Tsui</item>
+        <item>Admiralty</item>
+        <item>Central</item>
+    </string-array>
+    <string-array name="TWL_Stations_values">
+        <item />
+        <item >TSW</item>
+        <item >TWH</item>
+        <item >KWH</item>
+        <item >KWF</item>
+        <item >LAK</item>
+        <item >MEF</item>
+        <item >LCK</item>
+        <item >CSW</item>
+        <item >SSP</item>
+        <item >PRE</item>
+        <item >MOK</item>
+        <item >YMT</item>
+        <item >JOR</item>
+        <item >TST</item>
+        <item >ADM</item>
+        <item >CEN</item>
+    </string-array>
+    
+</resources>

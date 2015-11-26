@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Platform Exit</string>
+    <string name="action_about">About</string>
+    
+    <string-array name="spinner_select">
+        <item>Select</item>
+    </string-array>
+    <string name="tvLine_text">Line:</string>
+    <string name="tvStation_text">Station:</string>
+    <string name="btnSubmit_text">Submit</string>
+    <string name="noInput">Please select line and station.</string>
+    <string name="destination_format">To %1$s:</string>
+    
+    <string name="about">Student ID: 1155042110 &lt;br&gt;Name: Lam Chung Sing&lt;br&gt;The information provide is for demonstration only, please do not use in real situation.</string>
+        
+</resources>
